@@ -101,5 +101,5 @@ Power BI was used to create an interactive dashboard with:
 
 ## 🚀 Conclusion
 
-- This project demonstrates an end-to-end data analytics workflow—from raw transactional data to meaningful business insights—using SQL, Python, and Power BI.
+This project demonstrates an end-to-end data analytics workflow—from raw transactional data to meaningful business insights—using SQL, Python, and Power BI.
 
