@@ -56,11 +56,7 @@ SQL was used to:
 - Identify top and bottom performing pizzas
 - Analyze trends by day and month
 
-📁 SQL Queries Location:  
-
-
-👉 *Paste all SQL queries inside this `.sql` file*  
-(Optional: add comments above each query explaining the logic)
+📁 SQL Queries Location:  <https://github.com/Amanshreewastav01/Pizza-Sales-Analysis/blob/main/Pizza_Sales%20MYSQL%20Queries.sql>
 
 ---
 
@@ -77,9 +73,7 @@ Python was used for:
 - Heatmap of pizza size vs category
 - Ingredient frequency analysis
 
-📁 Python Notebook Location:  
-
-👉 *Paste all Python syntax, analysis, and charts inside this Jupyter Notebook*
+📁 Python Notebook Location:  <https://github.com/Amanshreewastav01/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Analysis%20Python%20Syntax.ipynb>
 
 ---
 
@@ -90,54 +84,11 @@ Power BI was used to create an interactive dashboard with:
 - Sales trends over time
 - Top & bottom selling pizzas
 
-📁 Power BI Files Location:
+📁 Power BI Files Location:  <https://github.com/Amanshreewastav01/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Dashboard.pbix>
 
 ### 📸 Dashboard Screenshot
-Paste dashboard screenshots here 👇
+![WhatsApp Image 2026-02-03 at 01 10 07](https://github.com/user-attachments/assets/1c4b36cf-cade-4aae-afb7-13c1e2073b82)
+![WhatsApp Image 2026-02-03 at 01 16 29](https://github.com/user-attachments/assets/d2332a6a-d8f5-4d42-a8f5-c29c308507af)
 
-```markdown
-## 📸 Power BI Dashboard Preview
-![Dashboard](PowerBI/dashboard_preview.png)
-pizza-sales-analysis/
-│
-├── Data/
-│   └── pizza_sales.csv
-│
-├── SQL/
-│   └── pizza_sales_analysis.sql
-│
-├── Python/
-│   └── pizza_sales_analysis.ipynb
-│
-├── PowerBI/
-│   ├── pizza_sales_dashboard.pbix
-│   └── dashboard_preview.png
-│
-├── PPT/
-│   └── pizza_sales_summary.pptx
-│
-├── README.md
-└── LICENSE
 
----
-
-# 📜 MIT License (LICENSE file)
-
-Create a file named **LICENSE** and paste this:
-
-```text
-MIT License
-
-Copyright (c) 2025 Aman Kumar Shrivastav
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
