@@ -91,4 +91,20 @@ Power BI was used to create an interactive dashboard with:
 ![WhatsApp Image 2026-02-03 at 01 16 29](https://github.com/user-attachments/assets/d2332a6a-d8f5-4d42-a8f5-c29c308507af)
 
 
+## 📌 Deliverables
+
+- SQL queries for KPI and trend analysis
+- Python Jupyter Notebook with visualizations
+- Power BI interactive dashboard
+- Business Requirements Document (BRD)
+- Insights & recommendations for management
+
+## 🚀 Conclusion
+
+This project demonstrates an end-to-end data analytics workflow—from raw transactional data to meaningful business insights—using SQL, Python, and Power BI.
+
+## 👤 Author
+
+Aman Kumar Shrivastav
+Role: Data Analyst
 
