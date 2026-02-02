@@ -19,7 +19,7 @@ The analysis supports data-driven decision-making for sales, marketing, and oper
 ---
 
 ## 🗂 Data Source
-**Dataset:** `pizza_sales.csv`
+**Dataset:** <https://github.com/Amanshreewastav01/Pizza-Sales-Analysis/blob/main/pizza_sales.csv>
 
 ### Key Fields:
 - `order_id` – Unique order identifier  
