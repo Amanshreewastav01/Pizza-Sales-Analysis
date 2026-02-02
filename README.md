@@ -19,7 +19,7 @@ The analysis supports data-driven decision-making for sales, marketing, and oper
 ---
 
 ## 🗂 Data Source
-📁 **Dataset Location:** -<a href=https://github.com/Amanshreewastav01/Pizza-Sales-Analysis/blob/main/pizza_sales.csv>Dataset</a>
+📁 **Dataset Location:** -<a href=https://github.com/Amanshreewastav01/Pizza-Sales-Analysis/blob/main/pizza_sales.csv>Click Here</a>
 
 ### Key Fields:
 - `order_id` – Unique order identifier  
@@ -56,7 +56,7 @@ SQL was used to:
 - Identify top and bottom performing pizzas
 - Analyze trends by day and month
 
-📁 SQL Queries Location:  <https://github.com/Amanshreewastav01/Pizza-Sales-Analysis/blob/main/Pizza_Sales%20MYSQL%20Queries.sql>
+📁 SQL Queries Location:  -<a href=<https://github.com/Amanshreewastav01/Pizza-Sales-Analysis/blob/main/Pizza_Sales%20MYSQL%20Queries.sql>Click Here</a>
 
 ---
 
@@ -73,7 +73,7 @@ Python was used for:
 - Heatmap of pizza size vs category
 - Ingredient frequency analysis
 
-📁 Python Notebook Location:  <https://github.com/Amanshreewastav01/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Analysis%20Python%20Syntax.ipynb>
+📁 Python Notebook Location:  -<a href=<https://github.com/Amanshreewastav01/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Analysis%20Python%20Syntax.ipynb>Click Here</a>
 
 ---
 
@@ -84,7 +84,7 @@ Power BI was used to create an interactive dashboard with:
 - Sales trends over time
 - Top & bottom selling pizzas
 
-📁 Power BI Files Location:  <https://github.com/Amanshreewastav01/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Dashboard.pbix>
+📁 Power BI Files Location:  -<a href=<https://github.com/Amanshreewastav01/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Dashboard.pbix>Click Here</a>
 
 ### 📸 Dashboard Screenshot
 ![WhatsApp Image 2026-02-03 at 01 10 07](https://github.com/user-attachments/assets/1c4b36cf-cade-4aae-afb7-13c1e2073b82)
