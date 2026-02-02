@@ -59,3 +59,87 @@ SQL was used to:
 - Analyze trends by day and month
 
 📁 SQL Queries Location:  
+
+
+👉 *Paste all SQL queries inside this `.sql` file*  
+(Optional: add comments above each query explaining the logic)
+
+---
+
+## 🐍 Python Analysis
+Python was used for:
+- Data preprocessing and feature extraction
+- Exploratory Data Analysis (EDA)
+- Visualization of trends and distributions
+
+### Visualizations include:
+- Daily sales trend
+- Monthly sales trend
+- Sales % by category
+- Heatmap of pizza size vs category
+- Ingredient frequency analysis
+
+📁 Python Notebook Location:  
+
+👉 *Paste all Python syntax, analysis, and charts inside this Jupyter Notebook*
+
+---
+
+## 📈 Power BI Dashboard
+Power BI was used to create an interactive dashboard with:
+- KPIs (Revenue, Orders, Quantity)
+- Filters by category and size
+- Sales trends over time
+- Top & bottom selling pizzas
+
+📁 Power BI Files Location:
+
+### 📸 Dashboard Screenshot
+Paste dashboard screenshots here 👇
+
+```markdown
+## 📸 Power BI Dashboard Preview
+![Dashboard](PowerBI/dashboard_preview.png)
+pizza-sales-analysis/
+│
+├── Data/
+│   └── pizza_sales.csv
+│
+├── SQL/
+│   └── pizza_sales_analysis.sql
+│
+├── Python/
+│   └── pizza_sales_analysis.ipynb
+│
+├── PowerBI/
+│   ├── pizza_sales_dashboard.pbix
+│   └── dashboard_preview.png
+│
+├── PPT/
+│   └── pizza_sales_summary.pptx
+│
+├── README.md
+└── LICENSE
+
+---
+
+# 📜 MIT License (LICENSE file)
+
+Create a file named **LICENSE** and paste this:
+
+```text
+MIT License
+
+Copyright (c) 2025 Aman Kumar Shrivastav
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
